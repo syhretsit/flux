@@ -8,3 +8,6 @@ clustertool
 sopssecret.yaml
 sopssecret*
 *sopssecret*
+.envrc
+kubeconfig
+talosconfig
