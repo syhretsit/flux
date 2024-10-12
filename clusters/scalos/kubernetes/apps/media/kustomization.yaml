@@ -8,7 +8,7 @@ resources:
   # - bitmagnet/ks.yaml
   - downloads-nfs-pvc.yaml
   # - flaresolverr/ks.yaml
-  # - jackett/ks.yaml
+  - jackett/ks.yaml
   # - lidarr/ks.yaml
   - media-backups-pvc.yaml
   - media-nfs-pvc.yaml
